@@ -1,5 +1,5 @@
 ## Who i am
----
+
 Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontifical catholic university of Paraná (pucpr) in Paraná, Brazil
 
 - Currently on the second half of my third year, with expectation of graduation on the perceived course duration (5 years)
