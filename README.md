@@ -8,9 +8,9 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 --- 
 ## What you will find in this repository
 ---
-The chance of you finding any professional level stuff in here is very low, most of what i code and produce in here is currently at amateur, academic level
+- The chance of you finding any professional level stuff in here is very low, most of what i code and produce in here is currently at amateur, academic level
 
-Right know i dont have professional experience in coding nor programming, if you have any vacancy available and is interested in what i have in my profile im up to offers
+- Right know i dont have professional experience in coding nor programming, if you have any vacancy available and is interested in what i have in my profile im up to offers
 ---
 ### What may be weird in this repository
 ---
