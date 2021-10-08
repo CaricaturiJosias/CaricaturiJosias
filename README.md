@@ -31,7 +31,7 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 ---
 ### Contact info
   - Email (Academic): gabriel.cezario@pucpr.edu.br
-  - Email (General purpose): smoke.argacezario@gmail.com (refrain from judging me this is an old email for general purposes)
+  - Email (General purpose): gabriel.argacezario@gmail.com
   - I will not display my phone number
   - LinkedIn: https://www.linkedin.com/in/gabriel-vitor-cezário/
   - Discord: Caricaturi #0973
