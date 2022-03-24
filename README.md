@@ -2,9 +2,9 @@
 
 Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontifical catholic university of Paraná (pucpr) in Paraná, Brazil
 
-- Currently on the second half of my third year, with expectation of graduation on the perceived course duration (5 years)
+- Currently on the first half of my fourth year, with expectation of graduation on the perceived course duration (5 years)
 
-- Member of the revitalizing project of pucpr's formula SAE team in the electroeletronic projects department
+- Ex-member of the revitalizing project of pucpr's formula SAE team in the electroeletronic projects department
 
 ## What you will find in this repository
 
