@@ -8,9 +8,9 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 
 ## What you will find in this repository
 
-- The chance of you finding any professional level stuff in here is very low, most of what i code and produce in here is currently at amateur, academic level
+- The chance of you finding any professional level stuff in here is very low, most of what i code and produce in here is currently at amateur, academic level, what is made at a professional level is mostly keep on my current GitLab access where i work.
 
-- Right know i dont have professional experience in coding nor programming, if you have any vacancy available and is interested in what i have in my profile im up for             discussions  
+- Right know i am working as a software developer intern inside Siemens R&D department, i am inclined towards firmware and hardware, so i might look for new opportunities on said fields on the future  
 
 ### What may be weird in this repository
 
@@ -21,6 +21,12 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
   be aware MySQL is being used to store data and duration of the audio commands, in which the they are only played on local files.
 
 - Any Altium files here will be for practice, unless a FSAE repository is hosted by me in any future occasion
+
+### What i have experience in (**Professionally**)
+
+- Python automation: I making automated tests using abstracted bash commands in Linux (RHEL 8) and Windows 10 to check database and algorithm calculation functionallity in a evergrowing and complex software project.
+- C/C++ development: I create and research functionallities inside the project i work on, specially in receiver-end'ish type treatment for sockets (i do not work with IP/TCP, WIFI and other types of internet connection kind of processes)
+- C/C++ maintenance: I correct defects at base level on the system i work with as the project is expanded and modified (Memory allocation through components, information processing, bad programming practices done previously on the code)
 
 ### What i have experience in (**Not professionally**)
 
