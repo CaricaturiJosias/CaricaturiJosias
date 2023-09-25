@@ -6,7 +6,9 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 
 - Ex-member of the revitalizing project of pucpr's formula SAE team in the electroeletronic projects department
 
-- Right know i am working as a software developer intern inside Siemens's R&D department, i am inclined towards firmware and hardware, so i might look for new opportunities on said fields on the future
+- Project manager for 1 year for the PUCPR Computer engineering Junior company FRACTAL
+
+- Right know i am working as a software developer intern inside Siemens's R&D department, i am inclined towards distributed and embedded systems, so i might look for new opportunities or expanding my current position to said fields on the future
 
 ## What you will find in this repository
 
@@ -14,14 +16,14 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 
 - Training repositories, some of them regard online courses (Udemy, LinkedIn Learning and others)
 
+- Research inclined repositories (Thesis and scientific research)
+
 ### What may be weird in this repository
 
 - Tests regarding IDE's and softwares with github, if you see any of them just ignore it
 
 - Vilcrox: It is a discord bot i made to annoy some close friends, if you are interested in using it as a base code help yourself,
-  be aware MySQL is being used to store data and duration of the audio commands, in which the they are only played on local files.
-
-- Any Altium files here will be for practice, unless a FSAE repository is hosted by me in any future occasion
+  be aware Firebase is being used to store the name and duration of the audio commands, in which the they are only played on local files.
 
 ## What i have experience in 
 
@@ -29,9 +31,9 @@ Hi, my name is Gabriel, i am a undergraduate on computer engineering at pontific
 
 - Python automation: I making automated tests using abstracted bash commands in Linux (RHEL 8) and Windows 10 to check database and algorithm calculation functionallity in a evergrowing and complex software project.
 
-- C/C++ development: I create and research functionallities inside the project i work on, specially in receiver-end'ish type treatment for sockets (i do not work with IP/TCP, WIFI and other types of internet connection kind of processes)
+- C/C++ development: I create and research functionallities inside the project i work on, specially in receiver-end'ish type treatment for sockets (i do not work with IP/TCP, WIFI and other types of internet connection kind of processes), I also work on refactoring and introducing design patterns and new technologies into a +30 year old critical infrastructure software project
 
-- C/C++ maintenance: I correct defects at base level on the system i work with as the project is expanded and modified (Memory allocation through components, information processing, bad programming practices done previously on the code)
+- C/C++ maintenance: I correct defects at base level on the system i work with as the project is expanded and modified (Memory allocation through components, information processing, bad programming practices done previously on the code). I am also working on major refactorings of dataservers and core business applications of the system for many reasons (EOL 3pps, performance issues, introduction of new technologies like REST/microservices in general)
 
 ### (**Not professionally**)
 
